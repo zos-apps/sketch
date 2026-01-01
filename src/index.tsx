@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const Sketch: React.FC = () => {
   const [selectedTool, setSelectedTool] = useState('select');
